@@ -1,0 +1,12 @@
+.*.swp
+*~
+*.bak
+*.lbl
+*.map
+*.prg
+obj
+*.exe
+basicload_bin.h
+basicload
+mkbin
+
